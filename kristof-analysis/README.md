@@ -1,4 +1,4 @@
-On 25 March, the NYT published an op-ed by [Nicholas
+On 25 March, the NYT published an [op-ed by Nicholas
 Kristof](https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html)
 arguing in favor of social distancing. I am all in favor of social
 distancing, since it does give a chance for the healthcare system to
@@ -17,7 +17,7 @@ piece itself he admits:
 Later, a co-worker pointed me to an excellent Medium article, [A call
 to honesty in pandemic modeling
 ](https://medium.com/@wpegden/a-call-to-honesty-in-pandemic-modeling-5c156686a64b),
-by M.Chikina (bioinformatics research at University of Pittsburgh
+by M.Chikina (bioinformatician at University of Pittsburgh
 School of Medicine) and W. Pegden (mathematician at Cargie Mellon), in
 which they argue that Kristof's selective use of data hides the fact
 that social distancing (at least without further developments, such as
